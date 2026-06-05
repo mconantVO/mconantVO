@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Macade Conant 👋
 
-<!--
-**mconantVO/mconantVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of VoidOps Intelligence.
 
-Here are some ideas to get you started:
+I am building skills and projects in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Cloud Computing
+- Data Analytics
+- Artificial Intelligence
+- Automation
+- Product Strategy
+- Web Development
+
+## Current Focus
+
+- AWS Certification Journey
+- Building VoidOps Intelligence
+- Portfolio Development
+- Analytics & Automation Projects
+
+## Featured Projects
+
+### VoidOps Portfolio
+Professional portfolio showcasing cloud, analytics, automation, and AI projects.
+
+### Web Development
+Course projects and website development work.
+
+### AWS Cloud Journey
+Labs, certifications, and cloud architecture exercises.
+
+## Connect
+
+🌐 Website: https://voidops.cloud
+
+📧 Email: mconant@voidops.cloud
+
+💻 GitHub: https://github.com/mconantVO
+
+---
+
+Turning operational data into actionable intelligence.
