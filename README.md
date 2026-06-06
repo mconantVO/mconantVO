@@ -2,38 +2,44 @@
 
 Founder of VoidOps Intelligence.
 
-I am building skills and projects in:
-
-- AWS Cloud Computing
-- Data Analytics
-- Artificial Intelligence
-- Automation
-- Product Strategy
-- Web Development
+I am a Data & Analytics professional building expertise in cloud computing, automation, artificial intelligence, and product strategy through hands-on projects, coursework, and technical certifications.
 
 ## Current Focus
 
-- AWS Certification Journey
-- Building VoidOps Intelligence
-- Portfolio Development
-- Analytics & Automation Projects
+* AWS Certified Cloud Practitioner (In Progress)
+* Building VoidOps Intelligence
+* Cloud Architecture & Automation
+* Analytics & Data Products
+* Web Development Portfolio
 
 ## Featured Projects
 
-### VoidOps Portfolio
-Professional portfolio showcasing cloud, analytics, automation, and AI projects.
+### AWS Cloud Journey
+
+Documenting AWS certifications, cloud labs, architecture studies, and hands-on cloud projects.
 
 ### Web Development
-Course projects and website development work.
 
-### AWS Cloud Journey
-Labs, certifications, and cloud architecture exercises.
+Coursework and projects focused on HTML, CSS, responsive design, and modern web development practices.
+
+### VoidOps Portfolio
+
+Professional portfolio showcasing cloud, analytics, automation, and AI projects.
+
+## Areas of Interest
+
+* AWS Cloud Computing
+* Data Analytics
+* Artificial Intelligence
+* Automation
+* Product Strategy
+* Web Development
 
 ## Connect
 
 🌐 Website: https://voidops.cloud
 
-📧 Email: mconant@voidops.cloud
+📧 Email: [mconant@voidops.cloud](mailto:mconant@voidops.cloud)
 
 💻 GitHub: https://github.com/mconantVO
 
